@@ -1,0 +1,15 @@
+//source
+@import "../sass/source/_variable.scss";
+@import "../sass/source/_mixin.scss";
+@import "../sass/source/_typography.scss";
+
+//Header-Footer
+@import "../sass/base/_default.scss";
+@import "../sass/base/_header.scss";
+
+//Content
+@import "../sass/content/_slider.scss";
+@import "../sass/content/_homepage_content.scss";
+@import "../sass/base/_footer.scss";
+//Responsive
+@import "../sass/base/_responsive.scss";
